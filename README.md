@@ -31,8 +31,8 @@ terminal-chat/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/terminal-chat.git
-cd terminal-chat
+git clone https://github.com/shruti-1007/tcp_terminal_chat.git
+cd tcp_chat
 ```
 
 Start the server:
